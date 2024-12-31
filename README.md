@@ -1,6 +1,8 @@
 ## Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goncalo24&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goncalo24&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goncalo24)](https://github.com/FranciscoLopes21/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goncalo24&langs_count=10)
 
 <!--
 **Goncalo24/Goncalo24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
